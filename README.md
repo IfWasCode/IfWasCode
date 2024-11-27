@@ -2,7 +2,7 @@
 
 
 ## Who am I?
-I am a beginner web fullstack-developer
+I am a beginner C++ devoloper
 
 ## My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/kAwAilas)
