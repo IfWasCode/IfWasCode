@@ -1,4 +1,4 @@
-[![Header](https://github.com/WhySkyBye/WhySkyBye/blob/main/gif.gif)](https://vk.com/magabreik)
+[![Header](https://github.com/WhySkyBye/WhySkyBye/blob/main/astolfo-fate.gif)](https://vk.com/magabreik)
 
 
 ## Who am I?
