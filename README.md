@@ -1,4 +1,4 @@
-[![Header](https://github.com/IfWasCode/IfWasCode/blob/main/astolfo-fate.gif)](https://vk.com/magabreik)
+[![Header](https://github.com/IfWasCode/IfWasCode/blob/main/astolfo-fate.gif)](https://vk.com/lane__e)
 
 
 ## Who am I?
